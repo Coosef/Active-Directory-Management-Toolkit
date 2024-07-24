@@ -1,4 +1,4 @@
-# -Active-Directory-Management-Toolkit
+# Active-Directory-Management-Toolkit
 
 Active Directory Management Toolkit
 1. passneverexpiresolan.ps1
