@@ -1,6 +1,5 @@
 # Active-Directory-Management-Toolkit
 
-Active Directory Management Toolkit
 1. passneverexpiresolan.ps1
 Functionality: This PowerShell script disables the "Password Never Expires" setting for all users in Active Directory who currently have it enabled.
 
@@ -56,5 +55,3 @@ Active Directory'de aynı IP adresine sahip bilgisayarları tespit eder ve liste
 
 English Description:
 Identifies and lists computers in Active Directory with duplicate IP addresses, useful for resolving IP conflicts in your network.
-
-These descriptions and steps will help guide users on how to use and benefit from these scripts effectively within your GitHub repository
